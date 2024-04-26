@@ -15,7 +15,7 @@ Certifique-se de ter o Node.js instalado em sua máquina.
    ```bash
    git clone https://github.com/queirogs/develcode-frontend
 
-2. Clone este repositório:
+2. Navegue até o diretório do projeto:
     
     ```bash
     cd develcode-frontend
